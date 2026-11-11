@@ -1,0 +1,22 @@
+[package]
+name = "pa-proxy"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Minimal Codex Responses <-> DeepSeek Chat proxy for Personal Agent"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "net"] }
+reqwest = { version = "0.12", default-features = false, features = ["json", "stream", "rustls-tls"] }
+futures = "0.3"
+bytes = "1.5"
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+thiserror = "2"
+async-stream = "0.3"
+log = "0.4"
+env_logger = "0.11"
+base64 = "0.22"
+sha2 = "0.10"
+uuid = { version = "1", features = ["v4"] }

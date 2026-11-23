@@ -159,7 +159,7 @@ Personal Agent 想解决的是这些断点，而不是再做一个聊天界面�
 - [`COMPETITIVE-NOTES.md`](COMPETITIVE-NOTES.md)：借鉴谁、修什么；
 - [`OPEN-QUESTIONS.md`](OPEN-QUESTIONS.md)：8 个还没想清楚的宏观问题；
 - [`CONTRIBUTING.md`](CONTRIBUTING.md)：Issue、Discussion 和 PR 怎么用；
-- [`COMMUNITY.md`](COMMUNITY.md)：讨论入口和群二维码（待补充）；
+- [`COMMUNITY.md`](COMMUNITY.md)：讨论入口、群二维码和联系方式；
 - [`AGENTS.md`](AGENTS.md)：给 AI 编码助手的仓库说明。
 
 ---

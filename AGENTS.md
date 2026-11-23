@@ -14,6 +14,19 @@
 
 ---
 
+## 先读顺序
+
+1. `README.md`：项目是什么、现在到哪；
+2. `VISION.md`：目标和非目标；
+3. `OPEN-QUESTIONS.md`：8 个宏观未决问题；
+4. `docs/architecture.md`：总体架构；
+5. `docs/memory.md`：记忆内核；
+6. `CONTRIBUTING.md`：Issue、Discussion 和 PR 怎么用。
+
+不要假设代码已经存在；当前仓库只有文档。用户让你改代码时，先确认代码是否已经加入仓库。
+
+---
+
 ## 不能破坏的不变量
 
 1. 原始事件与派生理解分开。

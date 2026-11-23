@@ -1,0 +1,36 @@
+# Local data and secrets
+.env
+.env.*
+!.env.example
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+
+# Personal / runtime
+.pa/
+research/
+pa-study/
+src-tauri/
+.playwright-mcp/
+docs/global-thread-*.md
+docs/00-state.md
+docs/01-requirements.md
+
+# Build output
+target/
+node_modules/
+dist/
+dist-ssr/
+bin/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Local screenshots
+/pa-*.png
+/pa-study-*.png

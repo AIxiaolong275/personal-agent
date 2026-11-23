@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 开放式讨论
+    url: https://github.com/AIxiaolong275/personal-agent/discussions
+    about: 方向性、开放式的讨论，暂时不需要得出一个结论
+  - name: 先读开放问题
+    url: https://github.com/AIxiaolong275/personal-agent/blob/main/OPEN-QUESTIONS.md
+    about: 8 个宏观问题，看看你要说的是不是已经在里面

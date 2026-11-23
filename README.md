@@ -151,9 +151,10 @@ Personal Agent 想解决的是这些断点，而不是再做一个聊天界面�
 - **挑战设计**：指出哪个假设站不住；
 - **带一个场景**：说明你想用它做什么、现在哪里不行；
 - **带一个反例**：给出可复现的失败；
-- **带一个补丁**：小而完整，附验证证据；
-- **带一组评测**：证明记忆是否可靠；
+- **带一个设计想法**：针对一个开放问题给出方案、取舍和失败场景；
 - **带一个界面或文档样例**：说明 Intelligent UI、Office AI 或查看器应该长什么样。
+
+实现和评测等架构定稿后再开始。
 
 请先读：
 
@@ -163,6 +164,19 @@ Personal Agent 想解决的是这些断点，而不是再做一个聊天界面�
 - [`CONTRIBUTING.md`](CONTRIBUTING.md)：Issue、Discussion 和 PR 怎么用；
 - [`COMMUNITY.md`](COMMUNITY.md)：讨论入口、群二维码和联系方式；
 - [`AGENTS.md`](AGENTS.md)：给 AI 编码助手的仓库说明。
+
+---
+
+## 加群 / 讨论
+
+![Personal Agent 共创群](assets/community-qr.png)
+
+使用微信或企业微信扫码加入。二维码 **2026-11-30 前有效**；过期请看 [`COMMUNITY.md`](COMMUNITY.md) 或提 Issue。
+
+长期入口：
+
+- **Issues**：具体问题、反例、使用场景、架构缺口；
+- **Discussions**：方向性、开放式讨论。
 
 ---
 
